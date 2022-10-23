@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pdf-generate-react/static/css/main.2207dfb9.css",
+    "main.js": "/pdf-generate-react/static/js/main.41434e27.js",
+    "static/js/498.4b9a6376.chunk.js": "/pdf-generate-react/static/js/498.4b9a6376.chunk.js",
+    "static/js/703.8c350137.chunk.js": "/pdf-generate-react/static/js/703.8c350137.chunk.js",
+    "static/js/262.93a253c3.chunk.js": "/pdf-generate-react/static/js/262.93a253c3.chunk.js",
+    "index.html": "/pdf-generate-react/index.html",
+    "main.2207dfb9.css.map": "/pdf-generate-react/static/css/main.2207dfb9.css.map",
+    "main.41434e27.js.map": "/pdf-generate-react/static/js/main.41434e27.js.map",
+    "498.4b9a6376.chunk.js.map": "/pdf-generate-react/static/js/498.4b9a6376.chunk.js.map",
+    "703.8c350137.chunk.js.map": "/pdf-generate-react/static/js/703.8c350137.chunk.js.map",
+    "262.93a253c3.chunk.js.map": "/pdf-generate-react/static/js/262.93a253c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2207dfb9.css",
+    "static/js/main.41434e27.js"
+  ]
+}
